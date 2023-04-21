@@ -1,7 +1,7 @@
 import { Container, Row, Col } from "react-bootstrap";
 
 export default function Footer() {
-  const gitHubUrl = "https://github.com/BryanVargas90";
+  const gitHubUrl = "https://github.com/BryanVargas90/about-me-page";
   return (
     <footer>
       <Container>
@@ -10,11 +10,7 @@ export default function Footer() {
             <p>
               &copy; {2023} Bryan D. Vargas
               <br />
-              <a
-                href={"https://github.com/BryanVargas90?tab=repositories"}
-                target="blank"
-                rel="noreferrer"
-              >
+              <a href={gitHubUrl} target="blank" rel="noreferrer">
                 Code in GitHub
               </a>
             </p>
