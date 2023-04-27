@@ -8,26 +8,25 @@ export default function Grid() {
           <Col sm={12} md={4}>
             <h2>Why Boca Code</h2>
             <p>
-              Coding bootcamps offer an immersive, practical learning experience
-              that can help you learn to code quickly and effectively. They
-              often provide hands-on experience, job placement assistance,
-              flexible scheduling, and a sense of community among students.
-              Bootcamps are a great option for those who want to transition into
-              a tech career quickly and gain the skills and experience they need
-              to succeed.
+            I chose Boca code because it is a highly reputable and well-respected program that offers comprehensive training in Software Development. 
+            Boca code has a proven track record of helping students achieve their career goals, 
+            with many graduates going on to secure positions at top companies in the industry. 
+           The instructors and staff are knowledgeable and experienced professionals who are dedicated to providing personalized support and guidance to each student. 
+            Overall, I am confident that Boca Code will provide me with the skills, knowledge, and connections necessary to achieve my career aspirations.
             </p>
           </Col>
 
           <Col>
-            <h2> Exiciting project</h2>
+            <h2> Exiciting Project</h2>
             <p>
-              An interesting project in my opinion would be to make an chess
-              game since I don't know how to play chess.
+            I am excited to develop a web application that allows me and my friends to easily schedule a gaming session. 
+            With this app, we will be able to coordinate our schedules and choose the best day, time, game, and duration for our gaming session.
+            
             </p>
           </Col>
 
           <Col>
-            <h2>Ideal work place</h2>
+            <h2>Ideal Work Place</h2>
             <p>
               An ideal workplace for me may include a quiet and focused work
               environment, a collaborative work culture, opportunities for

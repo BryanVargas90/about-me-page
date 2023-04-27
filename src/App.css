@@ -3,9 +3,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap");
 
 body {
-  background-image: url("../public/images/Back-1.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
+  background-image: url("../public/images/Backzstars.gif");
+  background-repeat:round;
+  background-position: 50% 50%;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -15,17 +15,24 @@ h1 {
   text-align: center;
   font-weight: 700;
   font-family: "Roboto Condensed", sans-serif;
+  color: rgb(241, 241, 10)
 }
 
 p {
   font-family: "Carlito", sans-serif;
   font-size: 21px;
   margin: 0 auto;
+  color: white;
+  text-align: center;
+  padding: 5%
+ 
 }
 
 h2 {
   font-weight: 700;
   font-family: "Orbitron", sans-serif;
+  color: rgb(0, 153, 255);
+  text-align: center;
 }
 
 .text-center {
